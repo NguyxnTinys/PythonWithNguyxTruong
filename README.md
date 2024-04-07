@@ -8,7 +8,8 @@
     languages. Integers, decimal numbers, character strings, and boolean kinds are among the data 
     types that are frequently found in languages.
 ## 3: Input: 
-    Data entry from the keyboard is a common occurrence while coding for beginners, thus a quick overview of this section is helpful.
+    Data entry from the keyboard is a common occurrence while coding for beginners, thus a quick 
+    overview of this section is helpful.
 
     include Input.py  and Input2.py
 ## 4: String
